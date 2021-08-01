@@ -7,10 +7,12 @@
 ```
   Node.js
   Express
+  MySQL
 ```
 > FE
 ```
   Vue.js
+  PyQt5
 ```
 > Streaming
 ```
