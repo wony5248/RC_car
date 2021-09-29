@@ -24,9 +24,17 @@
   SensorHat
   MotorHat
 ```
+## Demo
+동작 시연
+https://user-images.githubusercontent.com/48344143/135240342-21900ca7-01a2-4415-8efd-549c32c30d85.mp4
+
+
+스트리밍 시연
+https://user-images.githubusercontent.com/48344143/135240350-c320cff0-9d7c-4d6b-bdd4-2cbe9e45a6d6.mp4
+
 
 
 ## Docs
 <a href="https://docs.google.com/presentation/d/1TW6xNaRehp20QdbSilG1ZueS-4xkNd4JqCvHupJQOpU/edit#slide=id.gdcce5656f1_2_92" target="_blank"><img src="https://img.shields.io/badge/Project Docs-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/></a>
-<a href="https://www.youtube.com/watch?v=TAcpgdKRvNY" target="_blank"><img src="https://img.shields.io/badge/Project Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
+
 
