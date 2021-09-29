@@ -26,11 +26,13 @@
 ```
 ## Demo
 동작 시연
-https://user-images.githubusercontent.com/48344143/135240342-21900ca7-01a2-4415-8efd-549c32c30d85.mp4
 
+https://user-images.githubusercontent.com/48344143/135241487-2f7ebc24-fdf2-4e89-8453-914bba544642.mp4
 
 스트리밍 시연
-https://user-images.githubusercontent.com/48344143/135240350-c320cff0-9d7c-4d6b-bdd4-2cbe9e45a6d6.mp4
+
+https://user-images.githubusercontent.com/48344143/135241342-9cc56c7d-9a4f-4ad3-a56f-b33b8a28dbc4.mp4
+
 
 
 
