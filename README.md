@@ -27,7 +27,6 @@
 
 
 ## Docs
-<a href="https://docs.google.com/presentation/d/1TW6xNaRehp20QdbSilG1ZueS-4xkNd4JqCvHupJQOpU/edit#slide=id.gdcce5656f1_2_92" target="_blank"><img src="https://img.shields.io/badge/ppt-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://lab.ssafy.com/s05-webmobile3-sub3/S05P13A109/-/blob/master/docs/README.md" target="_blank"><img src="https://img.shields.io/badge/Project Docs-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/></a>
+<a href="https://docs.google.com/presentation/d/1TW6xNaRehp20QdbSilG1ZueS-4xkNd4JqCvHupJQOpU/edit#slide=id.gdcce5656f1_2_92" target="_blank"><img src="https://img.shields.io/badge/Project Docs-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/></a>
 <a href="https://www.youtube.com/watch?v=TAcpgdKRvNY" target="_blank"><img src="https://img.shields.io/badge/Project Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
 
